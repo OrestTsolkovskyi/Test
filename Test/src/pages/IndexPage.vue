@@ -11,6 +11,10 @@
     <p>Hello world</p>
     <p>Hello world</p>
     <p>Hello world</p>
+
+    <div class="testing">Testing</div>
+    <div class="testing">Testing</div>
+    <div class="testing">Testing</div>
   </q-page>
 </template>
 
