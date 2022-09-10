@@ -8,6 +8,9 @@
     ></example-component>
 
     <p>Hello world</p>
+    <p>Hello world</p>
+    <p>Hello world</p>
+    <p>Hello world</p>
   </q-page>
 </template>
 
